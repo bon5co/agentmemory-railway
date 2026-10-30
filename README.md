@@ -1,5 +1,9 @@
 # agentmemory-railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/agentmemory-v0928-or-agent-memory-whose-?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [Agentmemory template](https://railway.com/deploy/agentmemory-v0928-or-agent-memory-whose-?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 Wrapper image for deploying [agentmemory](https://github.com/rohitg00/agentmemory) —
 persistent memory for AI coding agents (Claude Code, Codex CLI, Cursor, Cline, Goose)
 over REST and MCP — as a single Railway service on one volume.
